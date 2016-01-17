@@ -6,7 +6,13 @@ markdown-test
 Test how markdown works.
 
 ## Usage
+```console
 markdown-test [options] <source>
+
+options:
+  -opt
+    This option change something
+```
 
 ## Requirements
 
